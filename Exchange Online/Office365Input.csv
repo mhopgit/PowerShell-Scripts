@@ -1,0 +1,2 @@
+DisplayName,Alias,PrimarySmtpAddress,NewEmail,EmailAddresses,UserPrincipalName
+User Test,user.test,user.test@domain.local,user.test@domain.com,SMTP:user.test@domain.local,user.test@domain.local
